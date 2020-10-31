@@ -1,0 +1,6 @@
+name: MyApp
+description: ""
+dependencies:
+  quiver: null
+  test: null
+dev_dependencies: {}
